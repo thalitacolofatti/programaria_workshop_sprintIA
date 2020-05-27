@@ -4,22 +4,22 @@ O projeto tinha por intuito fazer a análise de um banco de dados do site Imdb c
 
 Durante essa análise, foram criados os gráficos abaixo. Foi meu primeiro contato com Inteligência Artificial e Análise de dados. Ainda pretendo melhorar meu estudo para entender tudo que fizemos no workshop.
 
-![] (/img/1.png)
+![] (https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/1.png)
 
-**Nota vs Lucro**
+**Nota vs Lucro**(/img/1.png?raw=true "Nota vs Lucro")
 
-![] (/img/2.png)
+![] (https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/2.png)
 
 **Nota vs Likes do Facebook**
 
-![] (/img/3.png)
+![] (https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/3.png)
 
 **Nota vs Ator**
 
-![] (/img/4.1.png)
+![] (https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/4.1.png)
 
 **Análise Exploratória**
 
-![] (/img/matriz de confusao_naonormalizada.png)
+![] (https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/matriz de confusao_naonormalizada.png)
 
 **Matriz de Confusão**
