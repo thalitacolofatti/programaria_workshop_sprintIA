@@ -20,6 +20,6 @@ Durante essa análise, foram criados os gráficos abaixo. Foi meu primeiro conta
 
 **Análise Exploratória**
 
-![](https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/matriz de confusao_naonormalizada.png)
+![](https://raw.github.com/thalitacolofatti/programaria_workshop_sprintIA/master/img/matrizDeConfusao_naonormalizada.png)
 
 **Matriz de Confusão**
