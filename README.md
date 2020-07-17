@@ -1,4 +1,4 @@
-# Workshop realizado no Sprint de Inteligêcia Artificial da Programaria
+# Workshop realizado - Sprint de Inteligêcia Artificial da Programaria
 
 O projeto tinha por intuito fazer a análise de um banco de dados do site Imdb com notas de diversos filmes.
 
